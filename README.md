@@ -12,4 +12,4 @@ Dependencies:
   * seaborn 0.8.1
   * pandas 0.22.0
   * numpy 1.14.0
-  * editdistance 0.4
+  * [editdistance 0.4](https://github.com/aflc/editdistance)
