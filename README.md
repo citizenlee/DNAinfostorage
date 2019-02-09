@@ -1,6 +1,3 @@
-# DNAinfostorage
-
-Processed data and code for 
 **Terminator-free, template-independent enzymatic DNA synthesis for digital information storage**
 
 Source data for each demonstration is included as an archived (gzip) comma-delimited file (csv) in folders. 
