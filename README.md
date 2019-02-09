@@ -1,6 +1,6 @@
 # DNAinfostorage
 
-Processed data and code for Terminator-free, template-independent enzymatic DNA synthesis for digital information storage
+Processed data and code for **Terminator-free, template-independent enzymatic DNA synthesis for digital information storage**
 
 Files are organized according to demonstrations.
 1. 'hello world!' (H01-H12)
