@@ -1,4 +1,5 @@
 **Terminator-free, template-independent enzymatic DNA synthesis for digital information storage**
+Analyses by Henry Lee; MAP decoding and Codec simulations by Naveen Goela
 
 For each demonstration, source data archived (gzip) comma-delimited file (csv) and code is available. 
 1. 'hello world!' (H01-H12)
@@ -6,9 +7,6 @@ For each demonstration, source data archived (gzip) comma-delimited file (csv) a
 3. 2D-array prototype (S01-S03)
 4. Codec simulations
 
-Analyses by Henry Lee
-
-MAP decoding and Codec simulations by Naveen Goela
 
 Dependencies:
   * python 3.6.5
