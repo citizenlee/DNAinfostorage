@@ -7,6 +7,7 @@ For each demonstration, source data archived (gzip) comma-delimited file (csv) a
 4. Codec simulations
 
 Analyses by Henry Lee
+
 MAP decoding and Codec simulations by Naveen Goela
 
 Dependencies:
