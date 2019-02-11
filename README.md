@@ -1,4 +1,6 @@
 **Terminator-free, template-independent enzymatic DNA synthesis for digital information storage**
+
+
 Analyses by Henry Lee; MAP decoding and Codec simulations by Naveen Goela
 
 For each demonstration, source data archived (gzip) comma-delimited file (csv) and code is available. 
