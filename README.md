@@ -4,7 +4,7 @@ Source data for each demonstration is included as an archived (gzip) comma-delim
 1. 'hello world!' (H01-H12)
 2. 'Eureka!' (E0-E4)
 3. 2D-array prototype (S01-S03)
-
+4. Codec simulations
 
 Dependencies:
   * python 3.6.5
