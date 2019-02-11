@@ -2,9 +2,9 @@
 
 Source data for each demonstration is included as an archived (gzip) comma-delimited file (csv) in folders. 
 1. 'hello world!' (H01-H12)
-2. 'Eureka!' (E0-E4)
+2. 'Eureka!' (E0-E4) with MAP decoding (Naveen)
 3. 2D-array prototype (S01-S03)
-4. Codec simulations
+4. Codec simulations (Naveen)
 
 Dependencies:
   * python 3.6.5
